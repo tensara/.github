@@ -11,7 +11,7 @@ For April 2025, our primary goals are to:
 - Implement authentication for our CLI
 - Add in-browser sample testing/compilation
 - Support FP8/FP16
-- Improve CI/CD (e2e testing) 
+- Improve CI/CD (end-to-end testing) 
 - Add sanity tests for adding problems
 
 Check out our [roadmap](https://github.com/orgs/tensara/projects/1) for more specifics. We value open-source highly and are committed to transparency in all aspects of our development process.
