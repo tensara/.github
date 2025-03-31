@@ -14,6 +14,6 @@ For April 2025, our primary goals are to:
 - [ ] Improve CI/CD (e2e testing) 
 - [ ] Add sanity tests for adding problems
 
-Check out our [roadmap](https://github.com/orgs/tensara/projects/1) for more specifics. We value open-source highly and believe in full transparency when it comes to benchmarking solutions. 
+Check out our [roadmap](https://github.com/orgs/tensara/projects/1) for more specifics. We value open-source highly and are committed to transparency in all aspects of our development process.
 
 Issues, feature requests, and pull requests are all welcome. Feel free to [reach out](mailto:hello@tensara.org)!
