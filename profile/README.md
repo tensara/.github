@@ -8,6 +8,7 @@ For April 2025, our primary goals are to:
 - Solidify our GPU infrastructure (how we validate + benchmark solutions)
 - Refactor the frontend codebase to reduce the friction for contributions 
 - Improve the _variety_ of problems (add graphics, scientific computing tasks)
+- Add learn section from [GPU Puzzles](https://github.com/srush/GPU-Puzzles)
 - Implement authentication for our CLI
 - Add in-browser sample testing/compilation
 - Support FP8/FP16
